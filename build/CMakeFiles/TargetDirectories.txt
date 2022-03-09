@@ -1,0 +1,11 @@
+/home/jorlong/repos/CMakeGtestSetup/build/CMakeFiles/rebuild_cache.dir
+/home/jorlong/repos/CMakeGtestSetup/build/CMakeFiles/edit_cache.dir
+/home/jorlong/repos/CMakeGtestSetup/build/CMakeFiles/test.dir
+/home/jorlong/repos/CMakeGtestSetup/build/src/CMakeFiles/rebuild_cache.dir
+/home/jorlong/repos/CMakeGtestSetup/build/src/CMakeFiles/test.dir
+/home/jorlong/repos/CMakeGtestSetup/build/src/CMakeFiles/edit_cache.dir
+/home/jorlong/repos/CMakeGtestSetup/build/src/CMakeFiles/TestProject.dir
+/home/jorlong/repos/CMakeGtestSetup/build/tst/CMakeFiles/rebuild_cache.dir
+/home/jorlong/repos/CMakeGtestSetup/build/tst/CMakeFiles/edit_cache.dir
+/home/jorlong/repos/CMakeGtestSetup/build/tst/CMakeFiles/test.dir
+/home/jorlong/repos/CMakeGtestSetup/build/tst/CMakeFiles/Formula-test.cpp.dir
